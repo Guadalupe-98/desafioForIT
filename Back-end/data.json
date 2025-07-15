@@ -1,0 +1,37 @@
+[
+  {
+    "id": 3,
+    "descripcion": "Llamar a papa",
+    "completada": true,
+    "fecha_vencimiento": "2025-07-08",
+    "prioridad": "alta"
+  },
+  {
+    "id": 1752529934641,
+    "descripcion": "Entregar Tarea",
+    "completada": true,
+    "fecha_vencimiento": "14/07/2025",
+    "prioridad": "alta"
+  },
+  {
+    "id": 1752537529108,
+    "descripcion": "bañarme",
+    "completada": false,
+    "fecha_vencimiento": "15/08/2026",
+    "prioridad": "media"
+  },
+  {
+    "id": 1752537559710,
+    "descripcion": "Entregar mas tareas",
+    "completada": false,
+    "fecha_vencimiento": "30/07/2025",
+    "prioridad": "media"
+  },
+  {
+    "id": 1752553309516,
+    "descripcion": "prueba",
+    "completada": false,
+    "fecha_vencimiento": "19/02/2026",
+    "prioridad": "media"
+  }
+]
